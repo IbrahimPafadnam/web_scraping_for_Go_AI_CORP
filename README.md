@@ -9,5 +9,10 @@ Ce projet démontre le web scraping à partir de [ https://www.webonary.org/moor
 - `data_final.csv` : Contient les données du site [ https://www.webonary.org/moore/ ].
 - `data_f.csv` : Autre source.
 
+```json
+datas.json
+```
+
+
 ## Auteur
 [ PAFADNAM Ibrahim ]
