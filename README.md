@@ -9,13 +9,7 @@ Ce projet démontre le web scraping à partir de [ https://www.webonary.org/moor
 - `data_final.csv` : Contient les données du site [ https://www.webonary.org/moore/ ].
 - `data_f.csv` : Autre source.
 
-```json
-python import json
 
-with open("datas.json", "r", encoding="utf-8") as f: data = json.load(f)
-
-for i in range(3): # Print the first 3 elements print(data[i])
-```
 
 ## Auteur
 [ PAFADNAM Ibrahim ]
